@@ -90,7 +90,7 @@
             </article>
             <article class="col-md-4 article-intro">
                 <a href="#">
-                    <img srs="linzer_cookies.jpg" class="img-responsive img-rounded" src="holder.js/700x300" alt="">
+                    <img src="linzer_cookies.jpg" class="img-responsive img-rounded" src="holder.js/700x300" alt="">
                 </a>
                 <h3>
                     <a href="#">Linzer cookies</a>
@@ -100,7 +100,7 @@
 
             <article class="col-md-4 article-intro">
                 <a href="#">
-                    <img srs="macaroons.png" class="img-responsive img-rounded" src="holder.js/700x300" alt="">
+                    <img src="macaroons.png" class="img-responsive img-rounded" src="holder.js/700x300" alt="">
                 </a>
                 <h3>
                     <a href="#">Macarons</a>
