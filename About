@@ -35,7 +35,7 @@
 	
 	<h1>Image of Company Headquarters</h1>
 	<figure>
-	<a href="cookiecompanyHQ.jfif"></a>
+	<img src="cookiecompanyHQ.jfif" alt="Building"></a>
 	<figcaption>The building is currently being redesigned</figcaption>
 	</figure>
 	
