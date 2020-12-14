@@ -36,14 +36,14 @@
 	<h1>Image of Company Headquarters</h1>
 	<figure>
 	<a href="cookiecompanyHQ.jfif"></a>
-	<figcaption>The building is currently being redesigned</figcation>
+	<figcaption>The building is currently being redesigned</figcaption>
 	</figure>
 	
 	<footer>
 		
         	
         		<p><a href="mailtocookiecrumbleinc@gmail.com">Email Us</a> | <a href="tel:4437685894">Company Support Line</a> | 
-        		<p>Copyright &copy; Example.com 2015 </p>
+        		<p>Copyright&CookieCrumbleInc;</p>
         	
        
 	</footer>
